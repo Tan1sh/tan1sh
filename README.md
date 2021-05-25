@@ -35,7 +35,7 @@ Mi Servidor: [Chimiken Development](https://discord.gg/r8Cb52twWc)
 
 ![Tan1sh's github stats](https://github-readme-stats.vercel.app/api?username=Tan1sh&show_icons=true&theme=tokyonight)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tan1sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tan1sh&layout=compact)
 
 
 
