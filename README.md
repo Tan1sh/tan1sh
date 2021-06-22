@@ -19,7 +19,7 @@
 
 Mi Discord: ````! tan1sh#3035````
 
-Mi Servidor: [Chimiken Development](https://discord.gg/r8Cb52twWc)
+Mi Servidor: [Chimiken Support](https://discord.gg/mvZAyeGNpg)
 
 
 ### Lenguajes y Herramientas:
