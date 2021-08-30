@@ -6,7 +6,6 @@
 
 
 - 🐔 Chimiken un bot de discord multiproposito el cual puedes invitarlo haciendo click [aqui](https://discord.com/oauth2/authorize?client_id=760319921384325130&permissions=20&scope=bot)
-- [DevBash Hosting](https://devbash.xyz/) Hosting para bots de discord gratis
 
 
 📖 Que estoy aprendiendo:
